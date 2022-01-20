@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jassherrin
 - 🌸 I graduated from Republic Polytechnic with a Diploma in Information Technology
-- 👀 I’m interested in programming, game developing (trying to self learn) and Artifical Intelligence
+- 👀 I’m interested in programming and game development (trying to self learn) 
 - 🌱 I’m currently looking for job opportunities
 <!---- 💼 I’m currently working as-->
 - 📫 How to reach me: jassherrin@gmail.com
