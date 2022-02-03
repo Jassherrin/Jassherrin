@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jassherrin
-- 🌸 I graduated from Republic Polytechnic with a Diploma in Information Technology
+- 🌸 I graduated from Republic Polytechnic with a Diploma in Information Technology in 2021
 - 👀 I’m interested in programming and game development (trying to self learn) 
 - 🌱 I’m currently looking for job opportunities
 <!---- 💼 I’m currently working as-->
