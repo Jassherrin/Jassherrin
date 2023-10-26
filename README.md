@@ -4,11 +4,11 @@ Welcome to my GitHub profile! I'm a passionate programmer and a wannabe game dev
 
 - 🎓 I graduated from Republic Polytechnic with a Diploma in Information Technology in 2021. My education has equipped me with a solid foundation in various aspects of IT.
 
-- 👩🏾‍💻 I'm currently working as a Software Engineer Trainee at foodpanda.
+- 👩🏾‍💻 I'm currently working as a Software Engineer Trainee (Java and Kotlin) at foodpanda.
 
 - 👀 I'm deeply interested in programming and game development. I enjoy challenging myself and continuously learning new technologies. I'm currently focused on self-learning in these areas.
 
-- 🌱 I'm always eager to explore new programming languages and frameworks. Some of the languages I'm familiar with include .NET MVC, Python, HTML, CSS, C#, JavaScript, Java, and SQL.
+- 🌱 I'm always eager to explore new programming languages and frameworks. Some of the languages I'm familiar with include .NET MVC, Python, HTML, CSS, C#, JavaScript, Java, Kotlin, and SQL.
 
 ## Contact Me 📫
 
